@@ -1,1 +1,1 @@
-Exercises_Info_2_FS21
+This repository consists of the exercises given by Department of Informatics, University of Zurich.
